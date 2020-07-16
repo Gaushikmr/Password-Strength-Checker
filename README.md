@@ -2,7 +2,7 @@
 
 * Python program to check the strength of password. 
 
-Following are the criteria for checking the password
+* Following are the criteria for checking the password
 
 • At least 1 letter between [a-z]
 
