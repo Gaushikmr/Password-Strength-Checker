@@ -1,6 +1,6 @@
 # Password-Strength-Checker:
 
-* Python program to check the strength of password. 
+## Python program to check the strength of password. 
 
 * Following are the criteria for checking the password
 
