@@ -26,7 +26,7 @@ while x:
     elif not re.search("[$#@]",p):
         break
     elif re.search("\s",p):
-        break;
+        break
 
     else:
         print("Strong Password")
