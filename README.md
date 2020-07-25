@@ -16,4 +16,6 @@
 
 • Maximum length of password: 12
 
+• Every password must begin with an alphabet.
+
 
