@@ -28,10 +28,3 @@ while x:
     elif re.search("\s",p):
         break
 
-    else:
-        print("Strong Password")
-        x=False
-        break
-
-if x:
-    print("Weak Password")
