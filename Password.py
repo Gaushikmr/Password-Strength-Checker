@@ -11,7 +11,7 @@
 #        Program to check password strength            #
 #                                                      #
 #                                                      #
-#                 Author - Gaushik MR                 #
+#                                 #
 #                                                      #
 #                  dated- 16 July 2020                 #
 #                				       #
